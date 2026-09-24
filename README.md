@@ -1,7 +1,7 @@
 # Open Dealz Platform V2
 <img width="1537" height="842" alt="image" src="https://github.com/user-attachments/assets/caa5b2ac-4108-47f2-acf5-ffbf44508300" />
 
-Clean React/Vite prototype for the ВКР platform: customers publish IT projects with tags, executors apply with terms, customers create fixed-price or milestone contracts, both sides sign, and the customer can fund/release escrow through MetaMask.
+Clean React/Vite prototype for the Graduation Project: customers publish IT projects with tags, executors apply with terms, customers create fixed-price or milestone contracts, both sides sign, and the customer can fund/release escrow through MetaMask.
 
 ## Stack
 
